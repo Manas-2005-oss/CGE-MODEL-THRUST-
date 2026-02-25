@@ -1,0 +1,16 @@
+# Scaled Hybrid Economy
+
+BASELINE_GDP = 1000
+
+BASE_OUTPUTS = {
+    "agriculture": 150,
+    "manufacturing": 250,
+    "services": 600
+}
+
+BASELINE_UNEMPLOYMENT = 5
+BASELINE_INFLATION = 5
+
+BASELINE_SPENDING = 180
+BASELINE_INCOME_TAX = 20
+BASELINE_CORP_TAX = 25
